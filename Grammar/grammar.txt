@@ -1,0 +1,7 @@
+<sentence1>::=<letter1> <verb> <word1>
+<sentence2>::=<letter2> <verb> <word2>
+<letter1>::=A|a
+<verb>::=stands for
+<word1>::=apple|alpha|access|America|about|able|air|allow|ant|attendant
+<letter2>::=B|b
+<word2>::=bag|boy|back|but|bath|bank|buffet|bitter|bake|boss|book
